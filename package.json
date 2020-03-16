@@ -1,7 +1,6 @@
 {
-  "name": "PROJECT_NAME",
-  "version": "0.1.0",
-  "private": true,
+  "name": "may-templates-demo",
+  "version": "0.0.2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
